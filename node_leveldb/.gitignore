@@ -1,5 +1,5 @@
 #node_moduleは「npm install」してください
 /node_modules/
 
-#データベース
-*.sqlite
+#level db
+/testdb/
