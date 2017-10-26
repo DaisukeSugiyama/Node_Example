@@ -1,0 +1,5 @@
+#node_moduleは「npm install」してください
+/node_modules/
+
+#sqllite3 db
+*.sqlite
